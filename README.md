@@ -62,7 +62,7 @@ FitSync/
 bash
 Copy
 Edit
-git clone https://github.com/your-username/fitsync.git
+git clone https://github.com/sohaibumarranjha1/fitsync.git
 cd fitsync
 2. Install Dependencies
 bash
